@@ -1,0 +1,16 @@
+{
+  "name": "elyfi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev" : "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

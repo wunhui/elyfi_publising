@@ -1,0 +1,1 @@
+{"version":3,"sources":["font.css"],"names":[],"mappings":"AAEA;IACI,+CAA+C;AACnD","file":"font.774a7045.css","sourceRoot":"..","sourcesContent":["@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);\r\n\r\n* {\r\n    font-family: 'Spoqa Han Sans Neo', 'sans-serif';\r\n}"]}
